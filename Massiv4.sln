@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massiv4", "Massiv4.csproj", "{4F130415-CEA9-4FF0-9339-72F5B7FBB1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F130415-CEA9-4FF0-9339-72F5B7FBB1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F130415-CEA9-4FF0-9339-72F5B7FBB1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F130415-CEA9-4FF0-9339-72F5B7FBB1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F130415-CEA9-4FF0-9339-72F5B7FBB1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
